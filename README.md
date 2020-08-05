@@ -3,7 +3,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-<br/>
+<br />
 <p align="center">
   <img src="tmp" width="128px">
   <h3 align="center"></h3>
@@ -14,6 +14,7 @@
     <a href="https://github.com/ricky-davis/AstroLauncher/issues">Report an issue</a>
   </p>
 </p>
+
 # AstroManager
 This tool is created for easier management and deployability for dediated Astroneer servers. This tool was built with simplicity in mind, which makes it easier to start hosting your own server today!
 
