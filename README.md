@@ -1,0 +1,2 @@
+# AstroManager
+tmp
