@@ -1,7 +1,8 @@
 <p align="center">
   <img src="tmp" width="128px">
-  <h3 align="center"></h3>
-      AstroManager - A flexable Astroneer Dedicated server launcher and manager
+  <h3 align="center">
+     AstroManager - A flexable Astroneer Dedicated server launcher and manager
+  </h3>
   <p align="center">
     <a href="https://github.com/ricky-davis/AstroLauncher/issues">Astro Techies</a>
     ·
