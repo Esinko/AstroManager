@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Esinko/AstroManager/blob/master/assets/bannero.png" width="128px">
+  <img src="https://github.com/Esinko/AstroManager/blob/master/assets/banner.png" width="128px">
   <h3 align="center">
      AstroManager - A flexable Astroneer Dedicated server launcher and manager
   </h3>
