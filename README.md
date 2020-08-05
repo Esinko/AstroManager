@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="tmp" width="128px">
+  <img src="https://github.com/Esinko/AstroManager/blob/master/assets/logo.png" width="128px">
   <h3 align="center">
      AstroManager - A flexable Astroneer Dedicated server launcher and manager
   </h3>
   <p align="center">
-    <a href="https://github.com/ricky-davis/AstroLauncher/issues">Astro Techies</a>
+    <a href="https://github.com/AstroTechies">Astro Techies</a>
     ·
-    <a href="https://github.com/ricky-davis/AstroLauncher/issues">Report an issue</a>
+    <a href="https://github.com/Esinko/AstroManager/issues">Report an issue</a>
   </p>
 </p>
 
