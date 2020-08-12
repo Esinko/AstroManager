@@ -31,6 +31,7 @@ This tool is created for easier management and deployability for dediated Astron
 2. Network configuration
 3. Auto-restarts
 4. Save management
+5. Version control
 
 # Configuration
 (Configration documentation will appear here soon)
