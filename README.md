@@ -36,7 +36,9 @@ This tool is created for easier management and deployability for dediated Astron
 (Configration documentation will appear here soon)
 
 # Setup
-(Setup will appear here soon)
+1. Download the latest release from the Releases of this guthub repo
+2. Run the executable (.exe) in the directory of your choice. The directory you pick will be the application directory so making a new folder for just AstroManager is recommended
+3. Follow the applications instructions on automatically setting the server path or set it manually in the generated config.json file.
 
 # Usage
 (Usage tips will appear here soon)
