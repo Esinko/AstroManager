@@ -10,6 +10,9 @@
   </p>
 </p>
 
+# NOTE
+This project is on hold. See "AstroneerRconClient" on my profile.
+
 # AstroManager
 This tool is created for easier management and deployability for dediated Astroneer servers. This tool was built with simplicity in mind, which makes it easier to start hosting your own server today!
 
